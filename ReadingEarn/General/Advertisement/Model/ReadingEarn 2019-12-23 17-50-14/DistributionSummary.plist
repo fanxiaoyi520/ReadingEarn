@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ReadingEarn.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6EDAC9EF8B154CFAF254C7C07840E9FFD19FF022</string>
+				<key>dateExpires</key>
+				<string>2020/12/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>S8P4TF72X6.com.yuezapp.REAppStore</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>S8P4TF72X6</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>阅赚免费小说.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>20581592-840c-4fef-9361-235920d1ef49</string>
+				<key>name</key>
+				<string>EnterpriseSignature</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>S8P4TF72X6</string>
+				<key>name</key>
+				<string>fan xiaoyi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

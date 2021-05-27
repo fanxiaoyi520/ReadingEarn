@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-ReadingEarn/Pods-ReadingEarn-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManager/IQKeyboardManager.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/ZLPhotoBrowser/ZLPhotoBrowser/PhotoBrowser/resource/ZLPhotoActionSheet.xib
+${PODS_ROOT}/ZLPhotoBrowser/ZLPhotoBrowser/PhotoBrowser/resource/ZLPhotoBrowserCell.xib
+${PODS_ROOT}/ZLPhotoBrowser/ZLPhotoBrowser/PhotoBrowser/resource/ZLPhotoBrowser.bundle

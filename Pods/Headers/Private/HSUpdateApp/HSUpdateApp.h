@@ -1,0 +1,1 @@
+../../../HSUpdateApp/HSUpdateApp/HSUpdateApp.h
